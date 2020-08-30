@@ -17,7 +17,7 @@ The table bellow show our result. Speed is tested on GPU GEFORCE GTX 1080 Ti.
 |      Hopenet (α=1)     |  95.9 | 6.92 |  6.64 | 5.67 |     6.41    |                     |
 |       SSR-Net-MD       |  1.1  | 5.14 |  7.09 | 5.89 |     6.04    |                     |
 |     FSA-Caps-Fusion    |  5.1  |  4.5 |  6.08 | 4.64 |     5.07    |    1 (size 64x64)   |
-| Our method (ResNet18) | 49.00 | 4.13 |  5.70 | 4.33 |     4.72    |   3 (size 128x128)  |
+| **Our method** (ResNet18) | 49.00 | **4.13** |  **5.70** | **4.33** |     **4.72**   |   3 (size 128x128)  |
 
 ## Demo video
 ![Watch the video](https://github.com/TuanTNG/Cybercore-Head-Pose-Estimation/blob/master/demo.gif)
